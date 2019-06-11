@@ -1,0 +1,46 @@
+{
+  "name": "practicas",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@ckeditor/ckeditor5-build-classic": "^12.1.0",
+    "@ckeditor/ckeditor5-core": "^12.1.0",
+    "@ckeditor/ckeditor5-upload": "^11.0.1",
+    "@ckeditor/ckeditor5-vue": "^1.0.0-beta.2",
+    "@fortawesome/fontawesome-free": "^5.2.0",
+    "axios": "^0.18.1",
+    "dayjs": "^1.8.14",
+    "gantt-elastic": "^0.14.0",
+    "gantt-elastic-header": "^0.1.11",
+    "google-maps-api-loader": "^1.1.1",
+    "jspdf": "^1.5.3",
+    "lodash": "^4.17.11",
+    "marked": "^0.6.2",
+    "moment": "^2.24.0",
+    "roboto-fontface": "*",
+    "vue": "^2.6.6",
+    "vue-json-excel": "^0.2.98",
+    "vue-router": "^3.0.1",
+    "vue-swal": "^1.0.0",
+    "vuetify": "^1.5.0",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.4.0",
+    "@vue/cli-plugin-eslint": "^3.4.0",
+    "@vue/cli-service": "^3.7.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.8.0",
+    "eslint-plugin-vue": "^5.0.0",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.1",
+    "vue-cli-plugin-vuetify": "^0.4.6",
+    "vue-template-compiler": "^2.5.21",
+    "vuetify-loader": "^1.0.5"
+  }
+}
