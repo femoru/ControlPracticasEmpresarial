@@ -19,7 +19,7 @@
     "gantt-elastic-header": "^0.1.11",
     "google-maps-api-loader": "^1.1.1",
     "jspdf": "^1.5.3",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "marked": "^0.6.2",
     "moment": "^2.24.0",
     "roboto-fontface": "*",
